@@ -4,7 +4,7 @@ layout: default
 
 <section id="about" class="section">
 
-## About Me
+# About Me
 
 Hello! I'm Edgar, a computer science graduate based in Houston, Texas. I enjoy guitar, animals, and web development.
 
@@ -16,7 +16,7 @@ Hello! I'm Edgar, a computer science graduate based in Houston, Texas. I enjoy g
 
 <section id="skills" class="section">
 
-## Skills
+# Skills
 
 ### Technical Skills
 - **Programming Languages:** Python, C++
@@ -41,8 +41,6 @@ Hello! I'm Edgar, a computer science graduate based in Houston, Texas. I enjoy g
 ### Project Name One
 **Technologies:** React, Node.js, MongoDB  
 **Duration:** Jan 2024 - Mar 2024
-
-Brief description of what the project does and your role in it. Include key achievements and impact.
 
 [View Project](https://github.com/yourusername/project)
 
