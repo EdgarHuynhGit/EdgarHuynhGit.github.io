@@ -6,7 +6,7 @@ layout: default
 
 ## About Me
 
-Hello! I'm [Your Name], a [Your Profession] based in [Your Location]. I'm passionate about [your interests/specialties].
+Hello! I'm Edgar, a computer science graduate based in Houston, Texas. I enjoy guitar, animals, and web development.
 
 [Add a brief 2-3 paragraph introduction about yourself, your background, and what drives you professionally.]
 
