@@ -1,2 +1,2 @@
 # EdgarHuynhGit.github.io
-personal website
+Edgar's Personal Website
