@@ -1,0 +1,94 @@
+scss
+---
+---
+
+@import "{{ site.theme }}";
+
+// Smooth scrolling
+html {
+  scroll-behavior: smooth;
+}
+
+// Section spacing
+.section {
+  padding: 40px 0;
+  margin: 20px 0;
+}
+
+// Make navigation sticky
+#header_wrap {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  background: rgba(0, 0, 0, 0.9);
+}
+
+// Adjust main content for fixed header
+#main_content_wrap {
+  margin-top: 100px;
+}
+
+// Style navigation links
+nav {
+  text-align: center;
+  padding: 10px 0;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 0 15px;
+  font-size: 16px;
+  transition: color 0.3s ease;
+}
+
+nav a:hover {
+  color: #0090ff;
+}
+
+// Section headers
+.section h2 {
+  color: #303030;
+  font-size: 32px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #0090ff;
+  padding-bottom: 10px;
+}
+
+// Project cards styling
+.section h3 {
+  color: #0090ff;
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+// Responsive adjustments
+@media screen and (max-width: 640px) {
+  nav a {
+    display: block;
+    padding: 5px 0;
+  }
+  
+  #main_content_wrap {
+    margin-top: 150px;
+  }
+}
+
+// Link styling
+a {
+  color: #0090ff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+// HR styling for section dividers
+hr {
+  border: 0;
+  height: 1px;
+  background: #e5e5e5;
+  margin: 40px 0;
+}
