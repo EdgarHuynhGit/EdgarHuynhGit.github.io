@@ -44,6 +44,8 @@ Hello! I'm Edgar, a computer science graduate based in Houston, Texas. I enjoy g
 
 [View Project](https://github.com/yourusername/project)
 
+</section>
+
 ---
 
 <section id="contact" class="section">
