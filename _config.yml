@@ -10,7 +10,5 @@ navigation:
     url: "#skills"
   - title: Projects
     url: "#projects"
-  - title: Experience
-    url: "#experience"
   - title: Contact
     url: "#contact"
