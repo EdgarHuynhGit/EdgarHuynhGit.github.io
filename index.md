@@ -19,10 +19,10 @@ Hello! I'm Edgar, a computer science graduate based in Houston, Texas. I enjoy g
 ## Skills
 
 ### Technical Skills
-- **Programming Languages:** Python, JavaScript, Java
-- **Web Technologies:** HTML5, CSS3, React, Node.js
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools & Platforms:** Git, Docker, AWS, Linux
+- **Programming Languages:** Python, C++
+- **Web Technologies:** HTML, CSS
+- **Databases:** MySQL
+- **Tools & Platforms:** Git
 
 ### Soft Skills
 - Team Leadership & Collaboration
@@ -44,56 +44,7 @@ Hello! I'm Edgar, a computer science graduate based in Houston, Texas. I enjoy g
 
 Brief description of what the project does and your role in it. Include key achievements and impact.
 
-[View Project](https://github.com/yourusername/project) | [Live Demo](https://project-demo.com)
-
-### Project Name Two
-**Technologies:** Python, Flask, PostgreSQL  
-**Duration:** Sept 2023 - Dec 2023
-
-Another project description highlighting your contributions and the problems it solved.
-
-[View Project](https://github.com/yourusername/project2)
-
-### Project Name Three
-**Technologies:** JavaScript, Express, MySQL  
-**Duration:** May 2023 - Aug 2023
-
-Description of this project and what makes it special or challenging.
-
-[View Project](https://github.com/yourusername/project3)
-
-</section>
-
----
-
-<section id="experience" class="section">
-
-## Experience
-
-### Job Title | Company Name
-**Duration:** Month Year - Present  
-**Location:** City, State
-
-- Key responsibility or achievement
-- Another important contribution
-- Significant project or initiative you led
-
-### Previous Job Title | Previous Company
-**Duration:** Month Year - Month Year  
-**Location:** City, State
-
-- Major accomplishment in this role
-- Important skill developed or applied
-- Team or project you contributed to
-
-### Earlier Position | Company
-**Duration:** Month Year - Month Year  
-**Location:** City, State
-
-- Relevant experience gained
-- Skills developed in this position
-
-</section>
+[View Project](https://github.com/yourusername/project)
 
 ---
 
@@ -103,10 +54,9 @@ Description of this project and what makes it special or challenging.
 
 I'm always interested in new opportunities and collaborations. Feel free to reach out!
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **Email:** [huynhedgar@gmail.com](mailto:huynhedgar@gmail.com)
+- **LinkedIn:** [linkedin.com/in/edgarkhuynh](https://linkedin.com/in/edgarkhuynh/)
+- **GitHub:** [github.com/EdgarHuynhGit]([https://github.com/yourusername](https://github.com/EdgarHuynhGit))
 
 You can also download my [resume (PDF)](/assets/resume.pdf).
 
