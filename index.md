@@ -9,7 +9,7 @@ layout: default
 <div class="profile-container">
   <img src="assets/images/Capture.PNG" alt="Edgar Huynh" class="profile-image">
   <div class="about-text">
-    <p>Hello! I'm Edgar, a computer science graduate based in Houston, Texas. I enjoy guitar, animals, and I'm interested in technology.</p>
+    <p>Hello! I'm Edgar, a computer science graduate based in Houston, Texas. I enjoy guitar, animals, and nature.</p>
     <p>I'm passionate about building web applications and exploring data visualization. Currently seeking opportunities to grow my skills in software development.</p>
   </div>
 </div>
@@ -99,12 +99,10 @@ layout: default
     </a>
     
     <a href="https://linkedin.com/in/edgarkhuynh" class="contact-item" target="_blank">
-      <span class="contact-icon">💼</span>
       <span>LinkedIn Profile</span>
     </a>
     
     <a href="https://github.com/EdgarHuynhGit" class="contact-item" target="_blank">
-      <span class="contact-icon">🐙</span>
       <span>GitHub Profile</span>
     </a>
   </div>
