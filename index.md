@@ -7,7 +7,7 @@ layout: default
 ## About Me
 
 <div class="profile-container">
-  <img src="assets/images/capture.PNG" alt="Edgar Huynh" class="profile-image">
+  <img src="assets/images/Capture.PNG" alt="Edgar Huynh" class="profile-image">
   <div class="about-text">
     <p>Hello! I'm Edgar, a computer science graduate based in Houston, Texas. I enjoy guitar, animals, and I'm interested in technology.</p>
     <p>I'm passionate about building web applications and exploring data visualization. Currently seeking opportunities to grow my skills in software development.</p>
