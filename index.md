@@ -6,7 +6,7 @@ layout: default
 
 # About Me
 
-Hello! I'm Edgar, a computer science graduate based in Houston, Texas. I enjoy guitar, animals, and I'm interested in web development.
+Hello! I'm Edgar, a computer science graduate based in Houston, Texas. I enjoy guitar, animals, and I'm interested in Technology.
 
 </section>
 
