@@ -30,7 +30,7 @@ Hello! I'm Edgar, a computer science graduate based in Houston, Texas. I enjoy g
 
 ## Projects
 
-### Spotify Data Vizualizer
+### Spotify Data Visualizer
 **Technologies:** HTML, Python  
 **Duration:** Jan 2025 - May 2025
 
