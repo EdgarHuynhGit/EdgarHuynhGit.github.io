@@ -42,14 +42,14 @@ layout: default
   </div>
   
   <div class="skill-category">
-    <h3>🗄️ Databases</h3>
+    <h3>Databases</h3>
     <ul>
       <li>MySQL</li>
     </ul>
   </div>
   
   <div class="skill-category">
-    <h3>🛠️ Tools & Platforms</h3>
+    <h3>Tools & Platforms</h3>
     <ul>
       <li>Git</li>
       <li>GitHub</li>
