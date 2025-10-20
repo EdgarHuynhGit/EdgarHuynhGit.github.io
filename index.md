@@ -94,7 +94,6 @@ layout: default
   
   <div class="contact-links">
     <a href="mailto:huynhedgar@gmail.com" class="contact-item">
-      <span class="contact-icon">📧</span>
       <span>huynhedgar@gmail.com</span>
     </a>
     
