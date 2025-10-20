@@ -6,9 +6,7 @@ layout: default
 
 # About Me
 
-Hello! I'm Edgar, a computer science graduate based in Houston, Texas. I enjoy guitar, animals, and web development.
-
-[Add a brief 2-3 paragraph introduction about yourself, your background, and what drives you professionally.]
+Hello! I'm Edgar, a computer science graduate based in Houston, Texas. I enjoy guitar, animals, and I'm interested in web development.
 
 </section>
 
@@ -38,11 +36,11 @@ Hello! I'm Edgar, a computer science graduate based in Houston, Texas. I enjoy g
 
 ## Projects
 
-### Project Name One
-**Technologies:** React, Node.js, MongoDB  
-**Duration:** Jan 2024 - Mar 2024
+### Spotify Data Vizualizer
+**Technologies:** HTML, Python  
+**Duration:** Jan 2025 - May 2025
 
-[View Project](https://github.com/yourusername/project)
+[View Project]([https://github.com/yourusername/project](https://github.com/EdgarHuynhGit/SpotifyDataVisualizer))
 
 </section>
 
@@ -56,8 +54,6 @@ I'm always interested in new opportunities and collaborations. Feel free to reac
 
 - **Email:** [huynhedgar@gmail.com](mailto:huynhedgar@gmail.com)
 - **LinkedIn:** [linkedin.com/in/edgarkhuynh](https://linkedin.com/in/edgarkhuynh/)
-- **GitHub:** [github.com/EdgarHuynhGit]([https://github.com/yourusername](https://github.com/EdgarHuynhGit))
-
-You can also download my [resume (PDF)](/assets/resume.pdf).
+- **GitHub:** [github.com/EdgarHuynhGit]((https://github.com/EdgarHuynhGit))
 
 </section>
