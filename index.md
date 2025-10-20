@@ -113,4 +113,3 @@ layout: default
 <footer class="site-footer">
   <p>&copy; 2025 Edgar Huynh. Built with Jekyll and GitHub Pages.</p>
 </footer>
-</section>
