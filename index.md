@@ -17,16 +17,10 @@ Hello! I'm Edgar, a computer science graduate based in Houston, Texas. I enjoy g
 # Skills
 
 ### Technical Skills
-- **Programming Languages:** Python, C++
+- **Programming Languages:** Python, C++, Java
 - **Web Technologies:** HTML, CSS
 - **Databases:** MySQL
 - **Tools & Platforms:** Git
-
-### Soft Skills
-- Team Leadership & Collaboration
-- Problem Solving & Critical Thinking
-- Communication & Presentation
-- Project Management
 
 </section>
 
