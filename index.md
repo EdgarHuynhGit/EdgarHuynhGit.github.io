@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section id="about" class="section">
+<section id="about" class="section" markdown="1">
 
 ## About Me
 
@@ -18,7 +18,7 @@ layout: default
 
 ---
 
-<section id="skills" class="section">
+<section id="skills" class="section" markdown= "1">
 
 ## Skills
 
@@ -62,7 +62,7 @@ layout: default
 
 ---
 
-<section id="projects" class="section">
+<section id="projects" class="section" markdown="1">
 
 ## Projects
 
@@ -85,7 +85,7 @@ layout: default
 
 ---
 
-<section id="contact" class="section">
+<section id="contact" class="section" markdown="1">
 
 ## Contact Me
 
