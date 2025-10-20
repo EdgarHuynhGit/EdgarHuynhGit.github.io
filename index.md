@@ -7,7 +7,7 @@ layout: default
 ## About Me
 
 <div class="profile-container">
-  <img src="assets/images/profile.jpg" alt="Edgar Huynh" class="profile-image">
+  <img src="assets/images/capture.PNG" alt="Edgar Huynh" class="profile-image">
   <div class="about-text">
     <p>Hello! I'm Edgar, a computer science graduate based in Houston, Texas. I enjoy guitar, animals, and I'm interested in technology.</p>
     <p>I'm passionate about building web applications and exploring data visualization. Currently seeking opportunities to grow my skills in software development.</p>
@@ -24,7 +24,7 @@ layout: default
 
 <div class="skills-grid">
   <div class="skill-category">
-    <h3>💻 Programming Languages</h3>
+    <h3>Languages</h3>
     <ul>
       <li>Python</li>
       <li>C++</li>
@@ -33,7 +33,7 @@ layout: default
   </div>
   
   <div class="skill-category">
-    <h3>🌐 Web Technologies</h3>
+    <h3> Web Technologies</h3>
     <ul>
       <li>HTML</li>
       <li>CSS</li>
