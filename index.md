@@ -68,7 +68,7 @@ layout: default
 
 <div class="project-card">
   <div class="project-image">
-    <img src="assets/images/spotify-visualizer.png" alt="Spotify Data Visualizer">
+    <img src="assets/images/spotify_project.png" alt="Spotify Data Visualizer">
   </div>
   <div class="project-content">
     <h3>Spotify Data Visualizer</h3>
